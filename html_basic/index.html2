@@ -7,8 +7,8 @@
 <body>
 
   <header>
-    <h1>Shirleen Muthuma</h1>
-    <p>A passionate Virtual Assistant and creative professional</p>
+    <h1></h1>
+    <p>Software Developer | Problem Solver | Lifelong Learner</p>
   </header>
 
   <nav>
@@ -22,48 +22,55 @@
 
   <section id="introduction">
     <h2>Introduction</h2>
-    <p>Hello! I’m a dedicated VA who loves helping businesses grow by staying organized, efficient, and creative.</p>
+    <p>Hello! I’m Shirleen, a passionate software developer focused on building efficient, scalable web applications and solving real-world problems through code.</p>
   </section>
 
   <section id="projects">
     <h2>Projects</h2>
 
     <article class="project">
-      <h3>Travel Itinerary</h3>
-      <p>Created a client travel plan using semantic HTML.</p>
-      <a href="https://github.com/yourusername/Travel-Project" target="_blank">View Project</a>
+      <h3>Portfolio Website</h3>
+      <p>A responsive personal portfolio built with HTML5 and CSS3.</p>
+      <a href="https://github.com/shirleennyatoromuthuma/portfolio" target="_blank">View Project</a>
     </article>
 
     <article class="project">
-      <h3>Flyer Design</h3>
-      <p>Designed and published a flyer using Canva and GitHub.</p>
-      <a href="https://github.com/yourusername/Flyer-Design" target="_blank">View Project</a>
+      <h3>Task Manager App</h3>
+      <p>A full-stack task manager using Node.js, Express, and MongoDB.</p>
+      <a href="https://github.com/shirleennyatoromuthuma/task-manager" target="_blank">View Project</a>
+    </article>
+
+    <article class="project">
+      <h3>Weather App</h3>
+      <p>A JavaScript app that fetches real-time weather data using the OpenWeather API.</p>
+      <a href="https://github.com/shirleennyatoromuthuma/task-manager" target="_blank">View Project</a>
+      <a href="https://github.com//weather-app" target="_blank">View Project</a>
     </article>
 
   </section>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I’m a tech-savvy virtual assistant who loves structure, solving problems, and discovering new tools. Trained in ALX VA Program and Canva Design School.</p>
+    <p>I'm a self-taught software developer who enjoys turning ideas into code. My specialties include:</p>
     <ul>
-      <li>Time Management</li>
-      <li>Design & Branding</li>
-      <li>Research & Reports</li>
-      <li>Admin Support</li>
+      <li>Front-End: HTML, CSS, JavaScript, React</li>
+      <li>Back-End: Node.js, Express, MongoDB</li>
+      <li>Tools: Git, GitHub, VS Code, Postman</li>
     </ul>
+    <p>I love building solutions, contributing to open-source projects, and continuously learning new technologies.</p>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p>Email: <a href="mailto:shirleenmuthuma@com">jane.doe@example.com</a></p>
     <p>
-      <a href="https://www.linkedin.com/in/shirleen-muthuma/" target="_blank">LinkedIn</a> |
-      <a href="https://github.com/shirleennyatoromuthuma" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/janedoe" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/janedoe" target="_blank">GitHub</a>
     </p>
   </section>
 
   <footer>
-    <p>&copy; 2024 Your Name</p>
+    <p>&copy; 2024 Jane Doe</p>
   </footer>
 
 </body>
