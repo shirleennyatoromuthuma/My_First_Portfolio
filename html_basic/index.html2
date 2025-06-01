@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Your Name - Personal Portfolio</title>
+</head>
+<body>
+
+  <header>
+    <h1>Shirleen Muthuma</h1>
+    <p>A passionate Virtual Assistant and creative professional</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <p>Hi! I’m a dedicated Virtual Assistant who loves helping businesses grow by staying organized, efficient, and on-task.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <article class="project">
+      <h3>My Travel Itinerary Project</h3>
+      <p>Created a travel itinerary for a client using HTML structure.</p>
+      <a href="https://github.com/YourUsername/Travel-Project" target="_blank">View Project</a>
+    </article>
+
+    <article class="project">
+      <h3>Social Media Flyer Design</h3>
+      <p>Designed a promotional flyer using Canva and uploaded it to GitHub.</p>
+      <a href="https://github.com/YourUsername/Design-Flyer" target="_blank">View Project</a>
+    </article>
+
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a curious and organized individual who enjoys learning and creating. I’ve completed the ALX Virtual Assistant program, Canva Design School, and love tackling new challenges in tech and design.</p>
+    <p>My skills include:</p>
+    <ul>
+      <li>Calendar & Email Management</li>
+      <li>Design with Canva</li>
+      <li>Task Coordination</li>
+      <li>Website Updates (HTML)</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>
+      <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/YourUsername" target="_blank">GitHub</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Your Name</p>
+  </footer>
+
+</body>
+</html>
