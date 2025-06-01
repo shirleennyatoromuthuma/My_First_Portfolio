@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Your Name - Personal Portfolio</title>
+  <title>Shirleen Muthuma - Personal Portfolio</title>
 </head>
 <body>
 
@@ -22,44 +22,43 @@
 
   <section id="introduction">
     <h2>Introduction</h2>
-    <p>Hi! I’m a dedicated Virtual Assistant who loves helping businesses grow by staying organized, efficient, and on-task.</p>
+    <p>Hello! I’m a dedicated VA who loves helping businesses grow by staying organized, efficient, and creative.</p>
   </section>
 
   <section id="projects">
     <h2>Projects</h2>
 
     <article class="project">
-      <h3>My Travel Itinerary Project</h3>
-      <p>Created a travel itinerary for a client using HTML structure.</p>
-      <a href="https://github.com/YourUsername/Travel-Project" target="_blank">View Project</a>
+      <h3>Travel Itinerary</h3>
+      <p>Created a client travel plan using semantic HTML.</p>
+      <a href="https://github.com/yourusername/Travel-Project" target="_blank">View Project</a>
     </article>
 
     <article class="project">
-      <h3>Social Media Flyer Design</h3>
-      <p>Designed a promotional flyer using Canva and uploaded it to GitHub.</p>
-      <a href="https://github.com/YourUsername/Design-Flyer" target="_blank">View Project</a>
+      <h3>Flyer Design</h3>
+      <p>Designed and published a flyer using Canva and GitHub.</p>
+      <a href="https://github.com/yourusername/Flyer-Design" target="_blank">View Project</a>
     </article>
 
   </section>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I’m a curious and organized individual who enjoys learning and creating. I’ve completed the ALX Virtual Assistant program, Canva Design School, and love tackling new challenges in tech and design.</p>
-    <p>My skills include:</p>
+    <p>I’m a tech-savvy virtual assistant who loves structure, solving problems, and discovering new tools. Trained in ALX VA Program and Canva Design School.</p>
     <ul>
-      <li>Calendar & Email Management</li>
-      <li>Design with Canva</li>
-      <li>Task Coordination</li>
-      <li>Website Updates (HTML)</li>
+      <li>Time Management</li>
+      <li>Design & Branding</li>
+      <li>Research & Reports</li>
+      <li>Admin Support</li>
     </ul>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
     <p>
-      <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> |
-      <a href="https://github.com/YourUsername" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/shirleen-muthuma/" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/shirleennyatoromuthuma" target="_blank">GitHub</a>
     </p>
   </section>
 
